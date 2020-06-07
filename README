@@ -1,12 +1,13 @@
 spiegel
 =======
 
+0
+
+-------    x(4)
+
 9 5 5 C    镜 mirror; lens; glass; glasses
 
-7 E D 1    绑 bind, tie, fasten
-6 7 B 6    架 rack, stand, prop; prop up
-6 2 9 8    折 break off, snap; bend
-7 8 E 8    磨 grind; polish; rub; wear out; a millstone
+-------    hex
 
 5 F 7 1    影 shadow; image, reflection; photograph
 5 B 5 0    子 offspring, child; fruit, seed of; 1st terrestrial branch
@@ -17,3 +18,8 @@ spiegel
 8 6 2 D    蘭 orchid; elegant, graceful
 6 5 3 F    政 government, political affairs
 5 E 9 C    府 prefecture; prefect; government
+
+7 E D 1    绑 bind, tie, fasten
+6 7 B 6    架 rack, stand, prop; prop up
+6 2 9 8    折 break off, snap; bend
+7 8 E 8    磨 grind; polish; rub; wear out; a millstone
